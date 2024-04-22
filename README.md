@@ -17,7 +17,7 @@ To run the Email Management System on your local machine, follow these steps:
 ### Installation
 1. Clone the repository:
    
-    git clone https://github.com/username/email-management.git
+    git clone https://github.com/AbdullahMousa123/Assignment-I.git
    
 2. Navigate to the project directory:
    
